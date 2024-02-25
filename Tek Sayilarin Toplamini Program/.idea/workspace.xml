@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e920ddac-18f5-4faa-9e75-869585020ca2" name="Changes" comment="" />
+    <list default="true" id="b92824da-c08d-437c-8f7c-cb484d990b49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tek Sayilarin Toplamini Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2coMt3nLmsrK68YwEDjXylcWt4S" />
+  <component name="ProjectId" id="2cqEC5e4EArEWbGiVwJtHzeLmye" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,18 +34,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-1/ArtikYilHesaplama/src/Main.java"
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/KAAN/IdeaProjects/Patika Eğitim/Hafta-1/Tek Sayilarin Toplamini Program/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e920ddac-18f5-4faa-9e75-869585020ca2" name="Changes" comment="" />
-      <created>1708773689350</created>
+      <changelist id="b92824da-c08d-437c-8f7c-cb484d990b49" name="Changes" comment="" />
+      <created>1708830578297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708773689350</updated>
+      <updated>1708830578297</updated>
     </task>
     <servers />
   </component>
